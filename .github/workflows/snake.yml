@@ -2,8 +2,8 @@ name: Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight (UTC)
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   generate:
@@ -12,9 +12,9 @@ jobs:
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: mohammedjunaidali6  # Change this to your GitHub username
+          github_user_name: mohammedjunaidali6  # Replace with your username
           svg_out_path: dist/snake.svg
-      
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
