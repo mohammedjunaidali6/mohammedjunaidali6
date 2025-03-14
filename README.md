@@ -35,7 +35,7 @@
 <h2 align="center">📊 GitHub Contributions and Activity 📊</h2>
 <div align="center">
   <h3>🐍 My Contributions 🐍</h3>
-![Snake animation](https://raw.githubusercontent.com/mohammedjunaidali6/output/snake.svg)
+<img src="https://raw.githubusercontent.com/mohammedjunaidali6/output/snake.svg"/>
   <br/>
 </div>
 
