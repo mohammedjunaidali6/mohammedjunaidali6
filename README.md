@@ -1,7 +1,10 @@
-# Hi there 👋
+<h1 align="center">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</h1>
 
 <div align="center">
-  <a href="https://github.com/mohammedjunaidali6">
+  <a href="https://github.com/MohammadShabazuddin">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=I'm+Junaid+Ali+Mohammed" alt="Typing SVG" />
   </a>
 </div>
