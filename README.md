@@ -31,7 +31,7 @@
 ## 📊 GitHub Contributions and Activity 📊
 <div align="center">
   <h3>🐍 My Contributions 🐍</h3>
-  <img src="https://raw.githubusercontent.com/mohammedjunaidali6/output/main/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/mohammedjunaidali6/mohammedjunaidali6/output/main/snake.svg" alt="Snake animation"/>
 </div>
 
 ## ⚡ GitHub Activity ⚡
