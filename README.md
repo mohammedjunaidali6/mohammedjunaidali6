@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://github.com/MohammadShabazuddin">
+  <a href="https://github.com/mohammedjunaidali6">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=I'm+Junaid+Ali+Mohammed" alt="Typing SVG" />
   </a>
 </div>
