@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <table>
+  <table style="width:100%" >
     <tr>
       <td align="center">
         🎉 Thanks for visiting my profile! Dive into my projects, explore, and let’s connect!🌟
@@ -26,7 +26,7 @@
 
 <br/>
 
-## ⚒️ Languages-Frameworks-Tools ⚒️
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nextjs,nodejs,express,mongodb,firebase,vscode,github,git" /><br>
 </div>
