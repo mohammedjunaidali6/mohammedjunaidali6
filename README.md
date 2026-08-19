@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://profile-counter.glitch.me/mohammedjunaidali6/count.svg" alt="Profile Views" />
+        <img src="https://profile-counter.glitch.me/mohammedjunaidali6/count.svg" alt="" />
       </td>
     </tr>
   </table>
@@ -31,13 +31,13 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nextjs,nodejs,express,mongodb,firebase,vscode,github,git" /><br>
 </div>
 
-## 📊 GitHub Contributions and Activity 📊
+<h2 align="center">📊 GitHub Contributions and Activity 📊</h2>
 <div align="center">
   <h3>🐍 My Contributions 🐍</h3>
  <img src="https://raw.githubusercontent.com/mohammedjunaidali6/mohammedjunaidali6/output/snake.svg" width = 1500 alt="Snake animation" />
 </div>
 
-## ⚡ GitHub Activity ⚡
+<h2 align="center">⚡ GitHub Activity ⚡</h2>
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mohammedjunaidali6&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mohammedjunaidali6&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
